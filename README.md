@@ -1,4 +1,4 @@
-# aes-secret-key-generator
+# AES Secret Key Generator
 Key generation that is difficult to crack with brute force attack in AES encryption algorithm
 
 ### How to use ?
